@@ -27,7 +27,7 @@
 
 ## 📂 Featured Projects
 
-### 🧠 [Trade With Brain](https://github.com/ShakeelShekh/trade-with-brain)
+### 🧠 [Trade With Brain](https://github.com/shakeel786shekh/trade-with-brain)
 > Minervini-style AI-powered Stock Trading Second Brain
 
 - 📈 VCP & Trend Template detection using Python
@@ -37,7 +37,7 @@
 
 ---
 
-### 📉 [NSE F&O Market Tracker](https://github.com/ShakeelShekh/nse-fo-tracker)
+### 📉 [NSE F&O Market Tracker](https://github.com/shakeel786shekh/nse-fo-tracker)
 > Real-time NSE Options Chain Data with Black-Scholes Greeks
 
 - ⚡ Live index & options chain data via SmartAPI
@@ -47,7 +47,7 @@
 
 ---
 
-### 🍕 [Pizza Sales Analytics Dashboard](https://github.com/ShakeelShekh/pizza-sales-dashboard)
+### 🍕 [Pizza Sales Analytics Dashboard](https://github.com/shakeel786shekh/pizza-sales-dashboard)
 > End-to-end Sales Analytics with Interactive Dashboard
 
 - 📊 Revenue trends, peak hours & best-seller analysis
@@ -73,6 +73,6 @@
 
 ---
 
-![Shakeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShakeelShekh&show_icons=true&theme=tokyonight&hide_border=true)
+![Shakeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shakeel786shekh&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShakeelShekh&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakeel786shekh&layout=compact&theme=tokyonight&hide_border=true)
