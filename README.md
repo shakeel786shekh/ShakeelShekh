@@ -56,8 +56,15 @@
 - **Tech:** Python · React · Recharts · Excel · Power BI
 
 ---
+## 🔥 Featured Projects
 
-## 📜 Certifications
+### [SENSEX Live Option Chain Scraper](https://github.com/YOUR_USERNAME/sensex-option-chain)
+> Real-time BSE SENSEX derivatives data pipeline with Black-Scholes Greeks, PCR, 
+> Support/Resistance detection — streams to Google Sheets every 60 seconds.
+
+**Tech Stack:** Python • Selenium • CDP Network Interception • Google Sheets API • pandas • scipy
+----
+## 📜 Cerifications
 
 - 🏆 **TCS Master Craft™ Data Plus** — TCS
 - 📊 **Data Analysis Using Excel** — Great Learning
