@@ -58,7 +58,7 @@
 ---
 ## 🔥 Featured Projects
 
-### [SENSEX Live Option Chain Scraper](https://github.com/YOUR_USERNAME/sensex-option-chain)
+### [SENSEX Live Option Chain Scraper](https://github.com/shakeel786shekh/sensex-option-chain)
 > Real-time BSE SENSEX derivatives data pipeline with Black-Scholes Greeks, PCR, 
 > Support/Resistance detection — streams to Google Sheets every 60 seconds.
 
